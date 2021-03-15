@@ -3,7 +3,7 @@ description: "A Blog for tech enthusiasts "
 author:
   name: "Tray Keller"
   email: "Neednottoknow"
-  url: "https://github.com/traykeller/testsite2.github.io"
+  url: "https://testsite2.github.io"
 
 baseurl: /
 
